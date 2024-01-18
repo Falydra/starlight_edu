@@ -147,7 +147,7 @@ class _CarouselWithIndicatorState extends State<CarouselWithIndicatorDemo> {
                                                     width: 5.0),
                                                 borderRadius:
                                                     BorderRadius.circular(12)),
-                                            hintText: 'Nama Bapak',
+                                            hintText: 'Username',
                                           ),
                                         ),
                                       ),
@@ -173,7 +173,7 @@ class _CarouselWithIndicatorState extends State<CarouselWithIndicatorDemo> {
                                                     width: 5.0),
                                                 borderRadius:
                                                     BorderRadius.circular(12)),
-                                            hintText: 'Nama Ibu',
+                                            hintText: 'Password',
                                           ),
                                         ),
                                       ),
